@@ -6,6 +6,11 @@ This project presents an interactive Financial Performance Dashboard built using
 
 The dashboard analyzes sales, profit, product performance, country-wise performance, and segment profitability.
 
+## Dashboard Preview
+
+![Dashboard](dashboard-overview.png)
+
+
 ## Tools Used
 
 - Power BI
